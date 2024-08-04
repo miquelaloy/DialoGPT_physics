@@ -1,5 +1,5 @@
 This is my first aproach fine-tuning a LLM model.
-This is an easy exercise  where I fine-tune the DialoGPT_small and DialoGPT_medium with a database which have 30k answers and questions about Physics (ArtifactAI/arxiv-physics-instruct-tune-30k) from Hugging Face.
+This is an easy exercise  where I fine-tune the DialoGPT_small and DialoGPT_medium with a database which have 30k answers and questions about Physics (ArtifactAI/arxiv-physics-instruct-tune-30k) from Hugging Face. If you want to work with the data locally, you can find the same dataset in the data folder in JSON format.
 
 To execute this model is very easy, you only need to pip install the requeriments.txt, open a terminal and execute the main.py archive in that terminal.
 When you have executed the archive on your terminal you will be able to interact with the model in the same terminal.
